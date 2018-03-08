@@ -18,6 +18,7 @@ public class RandomQueue<E> {
         return  randElement;
     }
 
+
     public int size(){
         return queue.size();
     }
